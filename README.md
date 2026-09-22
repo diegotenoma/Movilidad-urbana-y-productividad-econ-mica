@@ -1,6 +1,4 @@
-# Movilidad urbana y productividad economica
-
-🚦 Movilidad Urbana y Productividad Económica en LATAM
+# 🚦 Movilidad Urbana y Productividad Económica en LATAM
 
 Análisis de la relación entre congestión vehicular y PIB per cápita en las 15 principales ciudades de América Latina, con el objetivo de identificar prioridades de inversión en infraestructura de transporte.
 
